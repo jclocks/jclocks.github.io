@@ -2,13 +2,13 @@ html {
   background-color: #222222;
 }
 
-/* body {
+body {
   font-family: sans, 'Roboto';
   max-width: 1200px;
   margin: auto;
   padding-top: 15px;
   color: #DDDDDD;
-} */
+}
 
 /* Straight-up stole the below from https://www.w3schools.com/howto/howto_css_navbar_icon.asp , with some tweaks. */
 .navbar {
