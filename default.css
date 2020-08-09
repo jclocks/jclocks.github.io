@@ -34,7 +34,7 @@ body {
 
 /* Current/active navbar link */
 .active {
-  background-color: #4CAF50;
+  background-color: #46abc7;
 }
 
 /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
